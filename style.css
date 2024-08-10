@@ -1105,8 +1105,8 @@ span{
 }
 .boxMail .boxMail-container .card1 .userImg{
     position: relative;
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     background-color: white;
     border-radius: 50%;
     overflow: hidden;
